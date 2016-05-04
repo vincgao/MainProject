@@ -1,0 +1,3 @@
+[submodule "DbConnector"]
+	path = DbConnector
+	url = git@github.com:vincgao/DbConnector.git
